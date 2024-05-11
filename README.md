@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Vaibhav Sharma</h1>
 <h3 align="center">I'm passionate about coding in C, C++, Python, HTML, CSS, DSA and more. Actively engaged in numerous projects, exploring the depths of software development and seeking innovative solutions. Eager to collaborate and contribute to exciting ventures. Let's join forces to build, innovate, and make a difference in the world of technology together!</h3>
 
