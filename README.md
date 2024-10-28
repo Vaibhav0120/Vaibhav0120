@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **vaibhavsh0120@gmail.com**
 
-- 📄 Know about my experiences (Currently in 2nd Year in College)
+- 📄 Know about my experiences: CISCO - 3 months, TechElite Intern - 1 months
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
