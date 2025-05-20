@@ -21,9 +21,6 @@ Here are some ideas to get you started:
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhav0120" alt="vaibhav0120 trophy" /></a> </p>
-
 - 👨‍💻 Here is my [Portfolio](https://vaibhav0120.github.io/Portfolio/)
 
 - 📫 How to reach me [vaibhavsh0120@gmail.com](mailto:vaibhavsh0120@gmail.com)
